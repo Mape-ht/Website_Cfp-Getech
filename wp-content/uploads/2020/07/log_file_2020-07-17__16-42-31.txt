@@ -1,0 +1,46 @@
+
+---Downloaded files---
+The import files for: Education LMS Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/cfp-ngor
+Data file = C:\xampp\htdocs\cfp-ngor/wp-content/themes/education-lms/assets/dummy-data/demo-content.xml
+Widget file = C:\xampp\htdocs\cfp-ngor/wp-content/themes/education-lms/assets/dummy-data/widgets.wie
+Customizer file = C:\xampp\htdocs\cfp-ngor/wp-content/themes/education-lms/assets/dummy-data/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Theme: Popular Posts - Recent Posts - Widget already exists
+Rechercher - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Nuage d’étiquettes - No Title - Widget already exists
+Menu de navigation - Links - Widget already exists
+Texte - Text Widget - Widget already exists
+
+Topbar Left : 
+
+HTML personnalisé - No Title - Widget already exists
+
+Footer 1 : 
+
+Texte - No Title - Widget already exists
+
+Footer 2 : 
+
+HTML personnalisé - Contact Us - Widget already exists
+
+Footer 3 : 
+
+Menu de navigation - Links - Widget already exists
+
+Footer 4 : 
+
+HTML personnalisé - Open Hours - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
